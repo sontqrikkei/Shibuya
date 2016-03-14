@@ -1,0 +1,147 @@
+10
+
+dir
+0
+http://sontq@rikkei.org/svn/cloudsource_shibuya/04.Program/SourceCode/iOS/Shibuya/Pods/Alamofire/Source
+http://sontq@rikkei.org/svn/cloudsource_shibuya
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b1da05e6-732d-4a3e-b924-c31f9f2f5ace
+
+Upload.swift
+file
+
+
+
+add
+
+ParameterEncoding.swift
+file
+
+
+
+add
+
+ServerTrustPolicy.swift
+file
+
+
+
+add
+
+Request.swift
+file
+
+
+
+add
+
+Error.swift
+file
+
+
+
+add
+
+Validation.swift
+file
+
+
+
+add
+
+Stream.swift
+file
+
+
+
+add
+
+ResponseSerialization.swift
+file
+
+
+
+add
+
+Response.swift
+file
+
+
+
+add
+
+MultipartFormData.swift
+file
+
+
+
+add
+
+Alamofire.swift
+file
+
+
+
+add
+
+NetworkReachabilityManager.swift
+file
+
+
+
+add
+
+Timeline.swift
+file
+
+
+
+add
+
+Download.swift
+file
+
+
+
+add
+
+Notifications.swift
+file
+
+
+
+add
+
+Manager.swift
+file
+
+
+
+add
+
+Result.swift
+file
+
+
+
+add
+

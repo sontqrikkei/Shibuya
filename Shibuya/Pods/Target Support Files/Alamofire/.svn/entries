@@ -1,0 +1,70 @@
+10
+
+dir
+0
+http://sontq@rikkei.org/svn/cloudsource_shibuya/04.Program/SourceCode/iOS/Shibuya/Pods/Target%20Support%20Files/Alamofire
+http://sontq@rikkei.org/svn/cloudsource_shibuya
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b1da05e6-732d-4a3e-b924-c31f9f2f5ace
+
+Alamofire.modulemap
+file
+
+
+
+add
+
+Alamofire-dummy.m
+file
+
+
+
+add
+
+Alamofire-prefix.pch
+file
+
+
+
+add
+
+Info.plist
+file
+
+
+
+add
+
+Alamofire-umbrella.h
+file
+
+
+
+add
+
+Alamofire.xcconfig
+file
+
+
+
+add
+
